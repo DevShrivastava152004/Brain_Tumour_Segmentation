@@ -47,4 +47,4 @@ Run the app locally:
 - AI-assisted healthcare diagnostics
 
 ## Author
-Shreya Sharma
+Dev Shrivastava
